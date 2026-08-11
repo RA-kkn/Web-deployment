@@ -8,7 +8,7 @@ Step #	Task	Command(s)	What it does
 Or, if you already have console access on the VM:
 ip a	Confirms the VM's network address before you try to connect to it.
 2	SSH into the VM from your PC	ssh youruser@<vm-ip>
-(e.g. ssh root@192.168.7.233)	Opens a remote terminal session into the VM so you can run all following commands.
+	Opens a remote terminal session into the VM so you can run all following commands.
 2. Install Prerequisites
 
 What this does: Update the OS and install git, nginx, and Node.js on the VM.
